@@ -27,7 +27,7 @@
 
 ## 🌐 Live API
 
-- **Backend (Render):** 👉 https://onlineartgallery-project.onrender.com
+- **Backend (Render):** 👉 https://fsad-online-art-gallery-frontend-and.onrender.com/
 - **Frontend (Vercel):** 👉 https://online-art-gallery-frontend.vercel.app/
 
 > ⚠️ The root URL `/` returns `403` — this is expected. The API is protected by Spring Security. Use `/api/auth/login` or `/api/artworks` to interact with the API.
