@@ -58,6 +58,33 @@
 - 👨‍💼 **Admin Role** — manage the gallery catalog
 - 🐳 **Dockerized** — runs in a container on Render
 
+
+
+---
+---
+
+## 📸 Deployment & Database Snapshots
+
+### 🚀 Backend Server Running (Render)
+
+![Backend Server](backend_server.png)
+
+---
+
+### 🗄 MySQL Tables (Railway)
+
+![MySQL Tables](all_tables.png)
+
+---
+
+### 👤 Users Login Data (Railway)
+
+![Users Table](users_tables.png)
+
+---
+
+
+
 ---
 
 ## 🔑 API Endpoints
